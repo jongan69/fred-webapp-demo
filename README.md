@@ -1,16 +1,12 @@
 # flask-quickstart
 **[v1.1.2](https://github.com/bittobennichan/flask-quickstart/blob/master/CHANGES)**
 
-**flask-quickstart** is a minimal boilerplate/template for starting your new Flask project.
-
-The good thing about *flask-quickstart* is that it does not assume that you are using any Flask extensions. It sets up your project layout, main *Blueprint*, configuration and then gets out of your way!
-
-## Quickstart to flask-quickstart
+## Quickstart to fred-webapp-demo
 
 First clone the repostiory
 
 ```
-$ git clone https://github.com/bittobennichan/flask-quickstart.git
+$ git clone https://https://github.com/jongan69/fred-webapp-demo.git
 ```
 Change directory to flask-quickstart
 
@@ -19,7 +15,7 @@ $ cd flask-quickstart
 ```
 Create a virtual environment and install dependencies
 ```
-$ python -m venv venv
+$ python3 -m venv venv
 $ source venv/bin/activate
 $ python -m pip install --upgrade pip setuptools
 $ python -m pip install -r requirements.txt
