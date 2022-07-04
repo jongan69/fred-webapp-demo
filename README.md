@@ -1,4 +1,4 @@
-# flask-quickstart
+# fred-webapp-demo
 **[v1.1.2](https://github.com/bittobennichan/flask-quickstart/blob/master/CHANGES)**
 
 ## Quickstart to fred-webapp-demo
